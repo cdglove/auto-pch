@@ -1,0 +1,3 @@
+[submodule "contrib/CMakePCHCompiler"]
+	path = contrib/CMakePCHCompiler
+	url = https://github.com/cdglove/CMakePCHCompiler.git
